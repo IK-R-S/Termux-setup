@@ -19,6 +19,8 @@ neofetch
 echo "Setup finished, run bash"
 echo " "
 ```
+![image](https://github.com/IK-R-S/Termux-setup/assets/73291742/fada8a70-b63d-44fc-aeaa-442ae893f816)
+Select all, and after use one of the mirros.
 
 ## Personalization
 ### Extra Keys (virtual keyboard)
