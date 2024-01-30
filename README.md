@@ -24,8 +24,14 @@ Select all, and after use one of the mirros.
 
 ## Personalization
 ### Extra Keys (virtual keyboard)
+Create a new folder and file with this command:
 ```
 mkdir ~/.termux; nano ~/.termux/termux.properties
+```
+
+save with your extra keys:
+```
+extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]
 ```
 ### Startup message
 ```
