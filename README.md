@@ -1,7 +1,7 @@
 Run these following commands to `setup.sh`:
 
 ```
-chmod +x termux-setup.sh; ./termux-setup.sh
+chmod +x setup.sh; ./setup.sh
 ```
 ## Essential utilities (setup.sh)
 ```
