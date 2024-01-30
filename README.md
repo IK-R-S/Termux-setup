@@ -14,6 +14,7 @@ apt upgrade -y
 apt install git python3 nodejs neofetch -y
 pkg install rust -y
 apt-get install binutils -y
+rm -rf /data/data/com.termux/files/usr/etc/motd-playstore
 clear
 neofetch
 echo "Setup finished, run bash"
