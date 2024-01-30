@@ -1,9 +1,9 @@
-Run these following commands:
+Run these following commands to `setup.sh`:
 
 ```
 chmod +x termux-setup.sh; ./termux-setup.sh
 ```
-
+## Essential utilities (setup.sh)
 ```
 termux-change-repo
 pkg install termux-am
@@ -17,4 +17,14 @@ clear
 neofetch
 echo "Setup finished, run bash"
 echo " "
+```
+
+## Personalization
+### Extra Keys (virtual keyboard)
+```
+mkdir ~/.termux; nano ~/.termux/termux.properties
+```
+### Startup message
+```
+nano /data/data/com.termux/files/usr/etc/motd
 ```
