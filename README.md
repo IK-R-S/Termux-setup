@@ -5,6 +5,7 @@ chmod +x termux-setup.sh; ./termux-setup.sh
 ```
 ## Essential utilities (setup.sh)
 ```
+clear
 termux-change-repo
 pkg install termux-am
 termux-setup-storage
