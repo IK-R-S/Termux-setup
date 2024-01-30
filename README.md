@@ -16,4 +16,5 @@ apt-get install binutils
 clear
 neofetch
 echo "Setup finished, run bash"
+echo " "
 ```
